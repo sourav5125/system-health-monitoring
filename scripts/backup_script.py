@@ -3,7 +3,7 @@ import os
 import shutil
 import datetime
 
-SOURCE_DIR = "/path/to/your/source"
+SOURCE_DIR = "C:/Users/reyansh mishra/OneDrive/Documents/wisecow-main"
 BACKUP_DIR = "backups/"
 
 os.makedirs(BACKUP_DIR, exist_ok=True)
